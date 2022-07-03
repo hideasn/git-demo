@@ -1,3 +1,4 @@
 hello git!
 hello word!
 在新的分支上写代码 master
+在新的分支上写代码 hot-fix
